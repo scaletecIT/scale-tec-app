@@ -1,0 +1,3665 @@
+[
+  {
+    "Equivalents": "143989",
+    "ST": "7601564",
+    "Description": "Cell - 2.125 DBND-24 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B2)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0492",
+    "ST": "7601564",
+    "Description": "Cell - 2.125 DBND-24 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B3)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403902",
+    "ST": "7601564",
+    "Description": "Cell - 2.125 DBND-24 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "24'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B4)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "100017",
+    "ST": "7601564",
+    "Description": "Cell - 2.125 DBND-24 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B5)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500229",
+    "ST": "7601564",
+    "Description": "Cell - 2.125 DBND-24 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B6)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "172138",
+    "ST": "7601564",
+    "Description": "Cell - 2.125 DBND-24 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B7)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400400",
+    "ST": "7601620",
+    "Description": "Cell - 1.5 DB-16 / 0.172 mV/V @ 1,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B8)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "100126",
+    "ST": "7601620",
+    "Description": "Cell - 1.5 DB-16 / 0.172 mV/V @ 1,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B9)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403137",
+    "ST": "7601620",
+    "Description": "Cell - 1.5 DB-16 / 0.172 mV/V @ 1,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "3'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B10)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400373",
+    "ST": "7601620",
+    "Description": "Cell - 1.5 DB-16 / 0.172 mV/V @ 1,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B11)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407055",
+    "ST": "7601620",
+    "Description": "Cell - 1.5 DB-16 / 0.172 mV/V @ 1,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B12)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400680",
+    "ST": "7601620",
+    "Description": "Cell - 1.5 DB-16 / 0.172 mV/V @ 1,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B13)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500175",
+    "ST": "7602568",
+    "Description": "Cell - 2.125 DB-21 / 0.55 mV/V @ 11,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B14)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400061",
+    "ST": "7602568",
+    "Description": "Cell - 2.125 DB-21 / 0.55 mV/V @ 11,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B15)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "408455",
+    "ST": "7602568",
+    "Description": "Cell - 2.125 DB-21 / 0.55 mV/V @ 11,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B16)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407769",
+    "ST": "7603116",
+    "Description": "Cell - 4.5 SA-21 / 1.288 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B17)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400523",
+    "ST": "7603116",
+    "Description": "Cell - 4.5 SA-21 / 1.288 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B18)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9002855",
+    "ST": "7603116",
+    "Description": "Cell - 4.5 SA-21 / 1.288 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B19)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404758",
+    "ST": "7603116",
+    "Description": "Cell - 4.5 SA-21 / 1.288 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B20)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004906",
+    "ST": "7603116",
+    "Description": "Cell - 4.5 SA-21 / 1.288 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B21)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400409",
+    "ST": "7603211",
+    "Description": "Cell - 2.125 DB-11 / 0.3 mV/V @ 6,000 LBS / Horizontal Bolt Holes",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B22)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400609",
+    "ST": "7603229",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.75\", OB - 2.25\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B23)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404754",
+    "ST": "7603229",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.75\", OB - 2.25\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B24)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "250682",
+    "ST": "7603229",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.75\", OB - 2.25\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B25)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9003020",
+    "ST": "7603229",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.75\", OB - 2.25\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B26)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004908",
+    "ST": "7603229",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.75\", OB - 2.25\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B27)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "55833-0122",
+    "ST": "7603450",
+    "Description": "Cell - 2.5 DB-16 / 0.542 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B28)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0446",
+    "ST": "7603450",
+    "Description": "Cell - 2.5 DB-16 / 0.542 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B29)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "102701",
+    "ST": "7603450",
+    "Description": "Cell - 2.5 DB-16 / 0.542 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B30)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500217",
+    "ST": "7603496",
+    "Description": "Cell - 2.875 DB-24 / 1.0 mV/V @ 20,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B31)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407473",
+    "ST": "7603496",
+    "Description": "Cell - 2.875 DB-24 / 1.0 mV/V @ 20,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B32)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407059",
+    "ST": "7603496",
+    "Description": "Cell - 2.875 DB-24 / 1.0 mV/V @ 20,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B33)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "52044-0140",
+    "ST": "7603496",
+    "Description": "Cell - 2.875 DB-24 / 1.0 mV/V @ 20,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B34)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9003614",
+    "ST": "7603496",
+    "Description": "Cell - 2.875 DB-24 / 1.0 mV/V @ 20,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B35)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0313",
+    "ST": "7603542",
+    "Description": "Cell - 1.5 DB-30 / 0.1599 mV/V @ 1,500 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B36)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "52044-0058",
+    "ST": "7603542",
+    "Description": "Cell - 1.5 DB-30 / 0.1599 mV/V @ 1,500 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B37)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "55833-0130",
+    "ST": "7603542",
+    "Description": "Cell - 1.5 DB-30 / 0.1599 mV/V @ 1,500 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B38)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500200",
+    "ST": "7603597",
+    "Description": "Cell - 2.125 DB-21 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B39)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400525",
+    "ST": "7603597",
+    "Description": "Cell - 2.125 DB-21 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B40)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403089",
+    "ST": "7603597",
+    "Description": "Cell - 2.125 DB-21 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B41)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "148069",
+    "ST": "7603640",
+    "Description": "Cell - 2.875 DB-16 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B42)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "405289*",
+    "ST": "7603640",
+    "Description": "Cell - 2.875 DB-16 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B43)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404751",
+    "ST": "7603640",
+    "Description": "Cell - 2.875 DB-16 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B44)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-100004",
+    "ST": "7603640",
+    "Description": "Cell - 2.875 DB-16 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B45)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "95129",
+    "ST": "7603640",
+    "Description": "Cell - 2.875 DB-16 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B46)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004903",
+    "ST": "7603640",
+    "Description": "Cell - 2.875 DB-16 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B47)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0370",
+    "ST": "7603687",
+    "Description": "Cell - 2.5 DBND-30 / 0.9336 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B48)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0214",
+    "ST": "7603687",
+    "Description": "Cell - 2.5 DBND-30 / 0.9336 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B49)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "48479-0076",
+    "ST": "7603687",
+    "Description": "Cell - 2.5 DBND-30 / 0.9336 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "50'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B50)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500234",
+    "ST": "7603687",
+    "Description": "Cell - 2.5 DBND-30 / 0.9336 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B51)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "172310",
+    "ST": "7603687",
+    "Description": "Cell - 2.5 DBND-30 / 0.9336 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B52)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "406877",
+    "ST": "7603775",
+    "Description": "Cell - 3.75 SB-21 / 0.8 mV/V @ 30,000 LBS / Knz Hitch",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B53)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "141907",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B54)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400204",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B55)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400512",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B56)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407768",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B57)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407767",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B58)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9002009",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B59)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9002844",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B60)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "57930-0013",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B61)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "92443",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B62)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "102702",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B63)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "265684",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B64)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404074",
+    "ST": "7603778",
+    "Description": "Cell - 2.5 DBND-30 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B65)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "146110",
+    "ST": "7603778",
+    "Description": "Cell - 2.5 DBND-30 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B66)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "172311",
+    "ST": "7603778",
+    "Description": "Cell - 2.5 DBND-30 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B67)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403259",
+    "ST": "7603778",
+    "Description": "Cell - 2.5 DBND-30 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B68)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403903",
+    "ST": "7603778",
+    "Description": "Cell - 2.5 DBND-30 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "24'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B69)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-100006",
+    "ST": "7603778",
+    "Description": "Cell - 2.5 DBND-30 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B70)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400245",
+    "ST": "7603778",
+    "Description": "Cell - 2.5 DBND-30 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B71)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404278",
+    "ST": "7603779",
+    "Description": "Cell - 3.75 SB-21 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B72)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500053",
+    "ST": "7603779",
+    "Description": "Cell - 3.75 SB-21 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B73)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404756",
+    "ST": "7603779",
+    "Description": "Cell - 3.75 SB-21 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B74)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004910",
+    "ST": "7603779",
+    "Description": "Cell - 3.75 SB-21 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B75)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9005151",
+    "ST": "7603779",
+    "Description": "Cell - 3.75 SB-21 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B76)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403806",
+    "ST": "7603780",
+    "Description": "Cell - 3.75 SA-30 / 1.305 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B77)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "28819-0069",
+    "ST": "7603780",
+    "Description": "Cell - 3.75 SA-30 / 1.305 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B78)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "28819-0010",
+    "ST": "7603780",
+    "Description": "Cell - 3.75 SA-30 / 1.305 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B79)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "174759",
+    "ST": "7603780",
+    "Description": "Cell - 3.75 SA-30 / 1.305 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B80)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9003611",
+    "ST": "7603780",
+    "Description": "Cell - 3.75 SA-30 / 1.305 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B81)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500054",
+    "ST": "7603781",
+    "Description": "Cell - 3.75 SB-21 / 1.3 mV/V @ 30,000 lbs",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B82)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9005150",
+    "ST": "7603781",
+    "Description": "Cell - 3.75 SB-21 / 1.3 mV/V @ 30,000 lbs",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B83)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500205",
+    "ST": "7603782",
+    "Description": "Cell - 2.875 DESB-30 / 0.9558 mV/V @ 22,046 LBS s",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B84)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500226",
+    "ST": "7603782",
+    "Description": "Cell - 2.875 DESB-30 / 0.9558 mV/V @ 22,046 LBS s",
+    "ST Cable Length": "30'",
+    "Original Length": "15'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B85)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500157",
+    "ST": "7603783",
+    "Description": "Cell - 3.75 SB-30 / 1.3007 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B86)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "28819-0077",
+    "ST": "7603783*",
+    "Description": "Cell - 3.75 SB-30 / 1.3007 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B87)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500002",
+    "ST": "7603784",
+    "Description": "Cell - 4.5 SA-21 / 2.1678 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B88)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500158",
+    "ST": "7603784",
+    "Description": "Cell - 4.5 SA-21 / 2.1678 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B89)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "49090-0024",
+    "ST": "7603784",
+    "Description": "Cell - 4.5 SA-21 / 2.1678 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B90)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9003612",
+    "ST": "7603784",
+    "Description": "Cell - 4.5 SA-21 / 2.1678 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B91)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "410064",
+    "ST": "7603785",
+    "Description": "Cell - 2.875 DESB-30 / 1.102 mV/V @ 22,046 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B92)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404285",
+    "ST": "7603787",
+    "Description": "Cell - 3.75 SB-21 / 0.8 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B93)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404760",
+    "ST": "7603787",
+    "Description": "Cell - 3.75 SB-21 / 0.8 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B94)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004913",
+    "ST": "7603787",
+    "Description": "Cell - 3.75 SB-21 / 0.8 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B95)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "408430",
+    "ST": "7603789",
+    "Description": "Cell - 1.875 DB-21 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B96)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "145379",
+    "ST": "7603790",
+    "Description": "Cell - 1.875 DB-11 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B97)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "145436",
+    "ST": "7603790",
+    "Description": "Cell - 1.875 DB-11 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B98)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "93028",
+    "ST": "7603790",
+    "Description": "Cell - 1.875 DB-11 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B99)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404284",
+    "ST": "7603806",
+    "Description": "Cell - 1.5SQDB-21 / 0.6347 mV/V @ 6,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B100)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "55250-0019",
+    "ST": "7603806",
+    "Description": "Cell - 1.5SQDB-21 / 0.6347 mV/V @ 6,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B101)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500065",
+    "ST": "7603806",
+    "Description": "Cell - 1.5SQDB-21 / 0.6347 mV/V @ 6,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B102)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "143480",
+    "ST": "7603923",
+    "Description": "Cell - 2.5 DB-21 / 0.625 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B103)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004902",
+    "ST": "7603923",
+    "Description": "Cell - 2.5 DB-21 / 0.625 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B104)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "141943",
+    "ST": "7603923",
+    "Description": "Cell - 2.5 DB-21 / 0.625 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B105)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404750",
+    "ST": "7603923",
+    "Description": "Cell - 2.5 DB-21 / 0.625 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B106)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500184",
+    "ST": "7603923",
+    "Description": "Cell - 2.5 DB-21 / 0.625 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B107)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "92400",
+    "ST": "7603923",
+    "Description": "Cell - 2.5 DB-21 / 0.625 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B108)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0685",
+    "ST": "7604353",
+    "Description": "Cell - 1.875 DB-21 / 0.286 mV/V @ 2,683 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B109)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "219870",
+    "ST": "7604353",
+    "Description": "Cell - 1.875 DB-21 / 0.286 mV/V @ 2,683 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B110)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "141891",
+    "ST": "7604353",
+    "Description": "Cell - 1.875 DB-21 / 0.286 mV/V @ 2,683 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B111)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "799571",
+    "ST": "7604353",
+    "Description": "Cell - 1.875 DB-21 / 0.286 mV/V @ 2,683 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B112)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "409976",
+    "ST": "7608100",
+    "Description": "Cell - 3.75 SB-16 / 1.5 mV/V @ 30,000 LBS / 3\" ND",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B113)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "410141",
+    "ST": "7608101",
+    "Description": "Cell - 2.875 DA-16 / 1.0mV/V @ 20,000 LBS / IB - 2.75\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B114)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500183",
+    "ST": "7608101",
+    "Description": "Cell - 2.875 DA-16 / 1.0mV/V @ 20,000 LBS / IB - 2.75\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B115)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400770",
+    "ST": "7608101",
+    "Description": "Cell - 2.875 DA-16 / 1.0mV/V @ 20,000 LBS / IB - 2.75\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B116)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "145004",
+    "ST": "7608101",
+    "Description": "Cell - 2.875 DA-16 / 1.0mV/V @ 20,000 LBS / IB - 2.75\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B117)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "92442",
+    "ST": "7608101",
+    "Description": "Cell - 2.875 DA-16 / 1.0mV/V @ 20,000 LBS / IB - 2.75\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B118)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "153101",
+    "ST": "7608102",
+    "Description": "Cell - 30K CT-TC-30 / 1.5 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B119)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "173034",
+    "ST": "7608102",
+    "Description": "Cell - 30K CT-TC-30 / 1.5 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B120)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403275",
+    "ST": "7608102",
+    "Description": "Cell - 30K CT-TC-30 / 1.5 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B121)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0302",
+    "ST": "7608102",
+    "Description": "Cell - 30K CT-TC-30 / 1.5 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B122)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "53759-0028",
+    "ST": "7608102",
+    "Description": "Cell - 30K CT-TC-30 / 1.5 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B123)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "53759-0036",
+    "ST": "7608102",
+    "Description": "Cell - 30K CT-TC-30 / 1.5 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B124)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "175256",
+    "ST": "7608102",
+    "Description": "Cell - 30K CT-TC-30 / 1.5 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B125)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400553",
+    "ST": "7608103",
+    "Description": "Cell - 2.875 DB-16 / 0.386 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B126)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404759",
+    "ST": "7608103",
+    "Description": "Cell - 2.875 DB-16 / 0.386 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B127)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-100003",
+    "ST": "7608103",
+    "Description": "Cell - 2.875 DB-16 / 0.386 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B128)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9002890",
+    "ST": "7608103",
+    "Description": "Cell - 2.875 DB-16 / 0.386 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B129)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004907",
+    "ST": "7608103",
+    "Description": "Cell - 2.875 DB-16 / 0.386 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B130)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "146682",
+    "ST": "7608104",
+    "Description": "Cell - 3.75 SB-16 / 1.5 mV/V @ 30,000 LBS / 2.5\" ND",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B131)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403185",
+    "ST": "7608104",
+    "Description": "Cell - 3.75 SB-16 / 1.5 mV/V @ 30,000 LBS / 2.5\" ND",
+    "ST Cable Length": "16'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B132)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407492",
+    "ST": "7608105",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS / Kinze",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B133)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "146772",
+    "ST": "7608106",
+    "Description": "Cell - 2.5 DA-16 / 0.5 mV/V @ 10,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B134)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "143904",
+    "ST": "7608107",
+    "Description": "Cell - 2 DA-11 / 0.514 mV/V @ 4,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B135)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "91887",
+    "ST": "7608107",
+    "Description": "Cell - 2 DA-11 / 0.514 mV/V @ 4,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B136)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403803",
+    "ST": "7608108",
+    "Description": "Cell - 2.875 DB-30 / 0.871 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B137)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500073",
+    "ST": "7608108",
+    "Description": "Cell - 2.875 DB-30 / 0.871 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "40'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B138)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500256",
+    "ST": "7608108",
+    "Description": "Cell - 2.875 DB-30 / 0.871 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B139)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "174979",
+    "ST": "7608108",
+    "Description": "Cell - 2.875 DB-30 / 0.871 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B140)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "84544",
+    "ST": "7608108",
+    "Description": "Cell - 2.875 DB-30 / 0.871 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B141)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "411513",
+    "ST": "7608108",
+    "Description": "Cell - 2.875 DB-30 / 0.871 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "33'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B142)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "52044-0124",
+    "ST": "7608108",
+    "Description": "Cell - 2.875 DB-30 / 0.871 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B143)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "52044-0066",
+    "ST": "7608108",
+    "Description": "Cell - 2.875 DB-30 / 0.871 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B144)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500010",
+    "ST": "7608108",
+    "Description": "Cell - 2.875 DB-30 / 0.871 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B145)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "143978",
+    "ST": "7608109",
+    "Description": "Cell - 1.875 DB-16 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B146)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0494",
+    "ST": "7608109",
+    "Description": "Cell - 1.875 DB-16 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B147)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-100007",
+    "ST": "7608109",
+    "Description": "Cell - 1.875 DB-16 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B148)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "172139",
+    "ST": "7608109",
+    "Description": "Cell - 1.875 DB-16 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B149)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "140708",
+    "ST": "7608110",
+    "Description": "Cell - 2.125 DB-16 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B150)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0493",
+    "ST": "7608110",
+    "Description": "Cell - 2.125 DB-16 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B151)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "141902",
+    "ST": "7608110",
+    "Description": "Cell - 2.125 DB-16 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B152)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500261",
+    "ST": "7608110",
+    "Description": "Cell - 2.125 DB-16 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B153)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "410737",
+    "ST": "7608111",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.5\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B154)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "141910",
+    "ST": "7608111",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.5\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B155)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "405958",
+    "ST": "7608111",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.5\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "33'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B156)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "250877",
+    "ST": "7608111",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.5\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B157)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9000955",
+    "ST": "7608111",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.5\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B158)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404172",
+    "ST": "7608112",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B159)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0566",
+    "ST": "7608112",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B160)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9001993",
+    "ST": "7608112",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B161)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004262",
+    "ST": "7608112",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B162)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9003613",
+    "ST": "7608112",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B163)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "56078-0025",
+    "ST": "7608112",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B164)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "56078-0033",
+    "ST": "7608112",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B165)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "93975",
+    "ST": "7608112",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B166)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9001343",
+    "ST": "7608112",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B167)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407766",
+    "ST": "7608113",
+    "Description": "Cell - 3.75 SA-30 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B168)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004904",
+    "ST": "7608113",
+    "Description": "Cell - 3.75 SA-30 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B169)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004905",
+    "ST": "7608113",
+    "Description": "Cell - 3.75 SA-30 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B170)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407765",
+    "ST": "7608113",
+    "Description": "Cell - 3.75 SA-30 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B171)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404752",
+    "ST": "7608113",
+    "Description": "Cell - 3.75 SA-30 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B172)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404753",
+    "ST": "7608113",
+    "Description": "Cell - 3.75 SA-30 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B173)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "408873",
+    "ST": "7608113",
+    "Description": "Cell - 3.75 SA-30 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B174)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21590-0044",
+    "ST": "7608114",
+    "Description": "Cell - 2.0 DA-21 / 0.5505 mV/V @ 4,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B175)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "77829",
+    "ST": "7608114",
+    "Description": "Cell - 2.0 DA-21 / 0.5505 mV/V @ 4,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B176)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21589-0179",
+    "ST": "7608115",
+    "Description": "Cell - 1.875 DA-16 / 0.4 mV/V @ 3,753 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B177)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "40581",
+    "ST": "7608115",
+    "Description": "Cell - 1.875 DA-16 / 0.4 mV/V @ 3,753 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B178)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21591-0084",
+    "ST": "7608116",
+    "Description": "Cell - 2.125 DA-21 / 0.4796 mV/V @ 4,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B179)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "40611",
+    "ST": "7608116",
+    "Description": "Cell - 2.125 DA-21 / 0.4796 mV/V @ 4,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B180)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "48479-0050",
+    "ST": "7608117",
+    "Description": "Cell - 2.5 DB-30 / Hitch / 0.778 mV/V @ 12,500 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B181)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0750",
+    "ST": "7608117",
+    "Description": "Cell - 2.5 DB-30 / Hitch / 0.778 mV/V @ 12,500 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B182)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0560",
+    "ST": "7608118",
+    "Description": "Cell - 1.875 DB-21 / 0.2825 mV/V @ 2,310 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B183)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "77828",
+    "ST": "7608118",
+    "Description": "Cell - 1.875 DB-21 / 0.2825 mV/V @ 2,310 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B184)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21589-0260",
+    "ST": "7608119",
+    "Description": "Cell - 1.87 DA-16 / 0.4 mV/V @ 3,753 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B185)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21589-0211",
+    "ST": "7608119",
+    "Description": "Cell - 1.87 DA-16 / 0.4 mV/V @ 3,753 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "12'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B186)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "799568",
+    "ST": "7608119",
+    "Description": "Cell - 1.87 DA-16 / 0.4 mV/V @ 3,753 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B187)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21623-0029",
+    "ST": "7608120",
+    "Description": "Cell - 2.0 DEDB-30 / 0.4335 mV/V @ 10000 LBS",
+    "ST Cable Length": "50'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B188)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0669",
+    "ST": "7608121",
+    "Description": "Cell - 2.125DB-21 / 0.3734 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B189)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "48479-0084",
+    "ST": "7608121",
+    "Description": "Cell - 2.125DB-21 / 0.3734 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "8'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B190)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0651",
+    "ST": "7608121",
+    "Description": "Cell - 2.125DB-21 / 0.3734 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B191)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0271",
+    "ST": "7608122",
+    "Description": "Cell - 1.5 DBND-30 / 0.1599 mV/V @ 1,500 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B192)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21623-0011",
+    "ST": "7608123",
+    "Description": "Double Ended Weigh-Bar 2.25 Dia 13.5 Length / 5 Pin Crown",
+    "ST Cable Length": "50'",
+    "Original Length": "50'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B193)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "153171",
+    "ST": "7608124",
+    "Description": "Cell - 1.875 DB-16 / 0.514 mV/V @ 4,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B194)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403856",
+    "ST": "7608124",
+    "Description": "Cell - 1.875 DB-16 / 0.514 mV/V @ 4,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "3'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B195)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407058",
+    "ST": "7608124",
+    "Description": "Cell - 1.875 DB-16 / 0.514 mV/V @ 4,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B196)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404975",
+    "ST": "7608124",
+    "Description": "Cell - 1.875 DB-16 / 0.514 mV/V @ 4,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B197)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500079",
+    "ST": "7608125",
+    "Description": "Cell - 2.875 DB-21 / 0.6503 mV/V @ 15,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B198)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "52044-0132",
+    "ST": "7608125",
+    "Description": "Cell - 2.875 DB-21 / 0.6503 mV/V @ 15,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B199)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500231",
+    "ST": "7608125",
+    "Description": "Cell - 2.875 DB-21 / 0.6503 mV/V @ 15,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B200)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500238",
+    "ST": "7608125",
+    "Description": "Cell - 2.875 DB-21 / 0.6503 mV/V @ 15,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B201)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9003610",
+    "ST": "7608125",
+    "Description": "Cell - 2.875 DB-21 / 0.6503 mV/V @ 15,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B202)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "406529",
+    "ST": "7608126",
+    "Description": "Cell - 5.5 SA-1/2 FT",
+    "ST Cable Length": "0.5'",
+    "Original Length": "0.5'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B203)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "143901",
+    "ST": "7608127",
+    "Description": "Cell - 1.875 DA-11 / 0.4 mV/V @ 3,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B204)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9623804",
+    "ST": "7608127",
+    "Description": "Cell - 1.875 DA-11 / 0.4 mV/V @ 3,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B205)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "141913",
+    "ST": "7608128",
+    "Description": "Cell - 2.125 DB-11 / 0.3 mV/V @ 6,000 LBS / Vertical Bolt Holes",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B206)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400397",
+    "ST": "7608128",
+    "Description": "Cell - 2.125 DB-11 / 0.3 mV/V @ 6,000 LBS / Vertical Bolt Holes",
+    "ST Cable Length": "11'",
+    "Original Length": "45'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B207)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404560",
+    "ST": "7608128",
+    "Description": "Cell - 2.125 DB-11 / 0.3 mV/V @ 6,000 LBS / Vertical Bolt Holes",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B208)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "405957",
+    "ST": "7608128",
+    "Description": "Cell - 2.125 DB-11 / 0.3 mV/V @ 6,000 LBS / Vertical Bolt Holes",
+    "ST Cable Length": "11'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B209)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "102694",
+    "ST": "7608128",
+    "Description": "Cell - 2.125 DB-11 / 0.3 mV/V @ 6,000 LBS / Vertical Bolt Holes",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B210)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407714",
+    "ST": "7608129",
+    "Description": "Cell - 2.875 DESB-21 / 1.846 mV/V @ 22,046 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B211)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407715",
+    "ST": "7608129",
+    "Description": "Cell - 2.875 DESB-21 / 1.846 mV/V @ 22,046 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "40'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B212)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500125",
+    "ST": "7608860",
+    "Description": "Cell - 3.75 SB-21 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B213)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "49050-0022",
+    "ST": "7608861",
+    "Description": "Cell - 1.875 DB-16 / 0.266 mV/V @ 2,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B214)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21593-0108",
+    "ST": "7608863",
+    "Description": "Cell - 2.5 DA-21 / 0.6224 mV/V @ 10,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B215)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "320072",
+    "ST": "7608863",
+    "Description": "Cell - 2.5 DA-21 / 0.6224 mV/V @ 10,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B216)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0776",
+    "ST": "7608864",
+    "Description": "Cell - 2.5 DB-21 / 0.5420 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B217)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21960-0046",
+    "ST": "7608866",
+    "Description": "Cell - 2.875 DA-30 / 0.8671 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B218)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21960-0079",
+    "ST": "7608866",
+    "Description": "Cell - 2.875 DA-30 / 0.8671 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B219)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0219",
+    "ST": "7608866",
+    "Description": "Cell - 2.875 DA-30 / 0.8671 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B220)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403805",
+    "ST": "7608866",
+    "Description": "Cell - 2.875 DA-30 / 0.8671 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B221)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "406225",
+    "ST": "7608866",
+    "Description": "Cell - 2.875 DA-30 / 0.8671 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B222)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "174758",
+    "ST": "7608866",
+    "Description": "Cell - 2.875 DA-30 / 0.8671 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B223)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400242",
+    "ST": "7608868",
+    "Description": "Cell - 2.5 DB-16 / 0.625 mV/V @ 12,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B224)>0",
+    "null": null
+  },
+  {
+    "Equivalents": null,
+    "ST": "7608868",
+    "Description": "Cell - 2.5 DB-16 / 0.625 mV/V @ 12,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B225)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "146129",
+    "ST": "7608869",
+    "Description": "Cell - 2.5 DA-11 / 0.375 mV/V @ 7,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B226)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400369",
+    "ST": "7608870",
+    "Description": "Cell - 2.50 DA-11 / 0.375 mV/V @ 7,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B227)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "405389",
+    "ST": "7608873",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS / Valmar",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B228)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "57845-0033",
+    "ST": "7608874",
+    "Description": "Cell - 2.875 DA-16 / 0.8671 mV/V @ 20,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B229)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "824181",
+    "ST": "7608877",
+    "Description": "Cell - 10K CT-21 / 0.950 mV/V @ 10,000 LBS",
+    "ST Cable Length": null,
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B230)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0420",
+    "ST": "7608878",
+    "Description": "Cell - 2.12 DA-21 / .6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B231)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0248",
+    "ST": "7608878",
+    "Description": "Cell - 2.12 DA-21 / .6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B232)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "27857-0072",
+    "ST": "7608879",
+    "Description": "Cell - 2.75 DA-21 / 0.8713 mV/V @ 14,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B233)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "53230-0027",
+    "ST": "7608880",
+    "Description": "Cell - 30K CT-TC-30 / 1.065 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B234)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21591-0027",
+    "ST": "7608881",
+    "Description": "Cell - 2.125 DA-21 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B235)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0784",
+    "ST": "7608882",
+    "Description": "Cell - 2.5 DB-21 / 0.7780 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B236)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "AWT27-500126",
+    "ST": "7608883",
+    "Description": "Cell - 3.75 SB-21 / 1.3007 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B237)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0644",
+    "ST": "7608888",
+    "Description": "Cell - 2.125 DB-21 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B238)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21591-0191",
+    "ST": "7608889",
+    "Description": "Cell - 2.125 DA-21 / 0.6928 mV/V @ 6,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B239)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0263",
+    "ST": "7608890",
+    "Description": "Cell - 2.125 DA-21 / 0.3734 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B240)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0217",
+    "ST": "7608890",
+    "Description": "Cell - 2.125 DA-21 / 0.3734 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B241)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0529",
+    "ST": "7609200",
+    "Description": "Cell - 2.125 DBND-30 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B242)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0075",
+    "ST": "7609200",
+    "Description": "Cell - 2.125 DBND-30 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B243)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "172275",
+    "ST": "7609200",
+    "Description": "Cell - 2.125 DBND-30 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B244)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "320156",
+    "ST": "7609200",
+    "Description": "Cell - 2.125 DBND-30 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B245)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "173230",
+    "ST": "7609200",
+    "Description": "Cell - 2.125 DBND-30 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B246)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "49050-0097",
+    "ST": "7609200",
+    "Description": "Cell - 2.125 DBND-30 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B247)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0024",
+    "ST": "7609200",
+    "Description": "Cell - 2.125 DBND-30 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B248)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "48479-0035",
+    "ST": "7609200",
+    "Description": "Cell - 2.125 DBND-30 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B249)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "57845-0017",
+    "ST": "7609200",
+    "Description": "Cell - 2.125 DBND-30 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B250)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "57122-0029",
+    "ST": "7609368",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS / Small Top",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B251)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "57122-0037",
+    "ST": "7609368",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS / Small Top",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B252)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404755",
+    "ST": "7609368",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS / Small Top",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B253)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004909",
+    "ST": "7609368",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS / Small Top",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B254)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "400724",
+    "ST": "7609500",
+    "Description": "Cell - 2.5 DB-21 / 0.322 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B255)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9003041",
+    "ST": "7609500",
+    "Description": "Cell - 2.5 DB-21 / 0.322 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B256)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004930",
+    "ST": "7609500",
+    "Description": "Cell - 2.5 DB-21 / 0.322 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B257)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403170",
+    "ST": "7609503",
+    "Description": "Cell - 3.75 SB-30 / .75 mV/V @ 30,000 LBS / 2.5\" ND /Flying Lead",
+    "ST Cable Length": "30'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B258)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "28827-0028",
+    "ST": "7609503",
+    "Description": "Cell - 3.75 SB-30 / .75 mV/V @ 30,000 LBS / 2.5\" ND /Flying Lead",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B259)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21960-0020",
+    "ST": "7609506",
+    "Description": "Cell - 2.875 DA-21 / 1.2447 mV/V @ 20,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B260)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403479",
+    "ST": "7609509",
+    "Description": "Cell - 2.125 DBND-24 / 1.344 mV/V @ 12,787 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "24'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B261)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21589-0070",
+    "ST": "7609512",
+    "Description": "Cell - 1.875 DA-16 / 0.4 mV/V @ 4,613 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B262)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21589-0096",
+    "ST": "7609515",
+    "Description": "Cell - 1.875 DA-16 / 0.5323 mV/V @ 3,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B263)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "406363",
+    "ST": "7609518",
+    "Description": "Cell - 2.75 DA-30 / 0.85 mV/V @ 17,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B264)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407524",
+    "ST": "7609518",
+    "Description": "Cell - 2.75 DA-30 / 0.85 mV/V @ 17,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B265)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0602",
+    "ST": "7609521",
+    "Description": "Hitch Weigh-Bar 1.87 Dia 14.06 Length / 5 Pin Crown",
+    "ST Cable Length": null,
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B266)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "28827-0010",
+    "ST": "7609524",
+    "Description": "Cell - 3.75 SB-30 / 1.3007 mV/V @ 30,000 LBS / 2.5\" ND",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B267)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "408432",
+    "ST": "7609527",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B268)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "407376",
+    "ST": "7609530",
+    "Description": "Cell - 2.875 DESB-11 / 1.018 mV/V @ 22,046 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B269)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "824322",
+    "ST": "7609533",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B270)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21589-0088",
+    "ST": "7609536",
+    "Description": "Cell - 1.875 DA-16 / 0.5323 mV/V @ 3,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B271)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21593-0124",
+    "ST": "7609539",
+    "Description": "Cell - 2.50 DA-16 / 0.3252 mV/V @ 7,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B272)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0396",
+    "ST": "7609542",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B273)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0404",
+    "ST": "7609545",
+    "Description": "Cell - 2.125 DB-21 / 0.2602 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B274)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0545",
+    "ST": "7609548",
+    "Description": "Cell - 1.875 DB-21 / 0.3513 mV/V @ 2,310 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B275)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0586",
+    "ST": "7609551",
+    "Description": "Cell - 1.875 DB-21 / 0.2462 mV/V @ 2,310 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B276)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "799569",
+    "ST": "7609551",
+    "Description": "Cell - 1.875 DB-21 / 0.2462 mV/V @ 2,310 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "14'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B277)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21960-0095",
+    "ST": "7609554",
+    "Description": "Cell - 2.875 DA-16 / 0.87 mV/V @ 20,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B278)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403802",
+    "ST": "7609554",
+    "Description": "Cell - 2.875 DA-16 / 0.87 mV/V @ 20,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B279)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0547",
+    "ST": "7609554",
+    "Description": "Cell - 2.875 DA-16 / 0.87 mV/V @ 20,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B280)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "175222",
+    "ST": "7609554",
+    "Description": "Cell - 2.875 DA-16 / 0.87 mV/V @ 20,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B281)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "27857-0049",
+    "ST": "7609557",
+    "Description": "Cell - 2.75 DA-30 / 1.058 mV/V @ 17,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B282)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "52044-0082",
+    "ST": "7609560",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B283)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "52044-0108",
+    "ST": "7609560",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B284)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "403804",
+    "ST": "7609560",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B285)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0545",
+    "ST": "7609560",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B286)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "174763",
+    "ST": "7609560",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B287)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21960-0087",
+    "ST": "7609603",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B288)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9003642",
+    "ST": "7609603",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": "18'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B289)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "404901",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": "0.5'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B290)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21592-0083",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": "12'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B291)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "49050-0121",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B292)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "47249-0044",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B293)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "9004961",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B294)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "799570",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B295)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "21594-0354",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B296)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "174508",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B297)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "173229",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B298)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "172278",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B299)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "55436-0016",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B300)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0121",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B301)>0",
+    "null": null
+  },
+  {
+    "Equivalents": 400922.0,
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B302)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0550",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B303)>0",
+    "null": null
+  },
+  {
+    "Equivalents": 409062.0,
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B304)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "969-0549",
+    "ST": "None",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B305)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7601564",
+    "ST": "7601564",
+    "Description": "Cell - 2.125 DBND-24 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "24'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B306)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7601620",
+    "ST": "7601620",
+    "Description": "Cell - 1.5 DB-16 / 0.172 mV/V @ 1,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B307)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7602568",
+    "ST": "7602568",
+    "Description": "Cell - 2.125 DB-21 / 0.55 mV/V @ 11,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B308)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603116",
+    "ST": "7603116",
+    "Description": "Cell - 4.5 SA-21 / 1.288 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B309)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603211",
+    "ST": "7603211",
+    "Description": "Cell - 2.125 DB-11 / 0.3 mV/V @ 6,000 LBS / Horizontal Bolt Holes",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B310)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603229",
+    "ST": "7603229",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.75\", OB - 2.25\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B311)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603450",
+    "ST": "7603450",
+    "Description": "Cell - 2.5 DB-16 / 0.542 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B312)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603496",
+    "ST": "7603496",
+    "Description": "Cell - 2.875 DB-24 / 1.0 mV/V @ 20,000 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "24'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B313)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603542",
+    "ST": "7603542",
+    "Description": "Cell - 1.5 DB-30 / 0.1599 mV/V @ 1,500 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B314)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603597",
+    "ST": "7603597",
+    "Description": "Cell - 2.125 DB-21 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B315)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603640",
+    "ST": "7603640",
+    "Description": "Cell - 2.875 DB-16 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B316)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603687",
+    "ST": "7603687",
+    "Description": "Cell - 2.5 DBND-30 / 0.9336 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B317)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603775",
+    "ST": "7603775",
+    "Description": "Cell - 3.75 SB-21 / 0.8 mV/V @ 30,000 LBS / Knz Hitch",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B318)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603776",
+    "ST": "7603776",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B319)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603778",
+    "ST": "7603778",
+    "Description": "Cell - 2.5 DBND-30 / 0.75 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B320)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603779",
+    "ST": "7603779",
+    "Description": "Cell - 3.75 SB-21 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B321)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603780",
+    "ST": "7603780",
+    "Description": "Cell - 3.75 SA-30 / 1.305 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B322)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603781",
+    "ST": "7603781",
+    "Description": "Cell - 3.75 SB-21 / 1.3 mV/V @ 30,000 lbs",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B323)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603782",
+    "ST": "7603782",
+    "Description": "Cell - 2.875 DESB-30 / 0.9558 mV/V @ 22,046 LBS s",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B324)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603783",
+    "ST": "7603783",
+    "Description": "Cell - 3.75 SB-30 / 1.3007 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B325)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603783*",
+    "ST": "7603783*",
+    "Description": "Cell - 3.75 SB-30 / 1.3007 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B326)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603784",
+    "ST": "7603784",
+    "Description": "Cell - 4.5 SA-21 / 2.1678 mV/V @ 50,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B327)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603785",
+    "ST": "7603785",
+    "Description": "Cell - 2.875 DESB-30 / 1.102 mV/V @ 22,046 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B328)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603787",
+    "ST": "7603787",
+    "Description": "Cell - 3.75 SB-21 / 0.8 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B329)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603789",
+    "ST": "7603789",
+    "Description": "Cell - 1.875 DB-21 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B330)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603790",
+    "ST": "7603790",
+    "Description": "Cell - 1.875 DB-11 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B331)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603806",
+    "ST": "7603806",
+    "Description": "Cell - 1.5SQDB-21 / 0.6347 mV/V @ 6,000 LBS s",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B332)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7603923",
+    "ST": "7603923",
+    "Description": "Cell - 2.5 DB-21 / 0.625 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B333)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7604353",
+    "ST": "7604353",
+    "Description": "Cell - 1.875 DB-21 / 0.286 mV/V @ 2,683 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B334)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608100",
+    "ST": "7608100",
+    "Description": "Cell - 3.75 SB-16 / 1.5 mV/V @ 30,000 LBS / 3\" ND",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B335)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608101",
+    "ST": "7608101",
+    "Description": "Cell - 2.875 DA-16 / 1.0mV/V @ 20,000 LBS / IB - 2.75\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B336)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608102",
+    "ST": "7608102",
+    "Description": "Cell - 30K CT-TC-30 / 1.5 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B337)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608103",
+    "ST": "7608103",
+    "Description": "Cell - 2.875 DB-16 / 0.386 mV/V @ 15,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B338)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608104",
+    "ST": "7608104",
+    "Description": "Cell - 3.75 SB-16 / 1.5 mV/V @ 30,000 LBS / 2.5\" ND",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B339)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608105",
+    "ST": "7608105",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS / Kinze",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B340)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608106",
+    "ST": "7608106",
+    "Description": "Cell - 2.5 DA-16 / 0.5 mV/V @ 10,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B341)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608107",
+    "ST": "7608107",
+    "Description": "Cell - 2 DA-11 / 0.514 mV/V @ 4,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B342)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608108",
+    "ST": "7608108",
+    "Description": "Cell - 2.875 DB-30 / 0.871 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B343)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608109",
+    "ST": "7608109",
+    "Description": "Cell - 1.875 DB-16 / 0.286 mV/V @ 2,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B344)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608110",
+    "ST": "7608110",
+    "Description": "Cell - 2.125 DB-16 / 0.3 mV/V @ 6,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B345)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608111",
+    "ST": "7608111",
+    "Description": "Cell - 2.875 DA-16 / 1.0 mV/V @ 20,000 LBS / IB - 2.5\", OB - 1.75\"",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B346)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608112",
+    "ST": "7608112",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B347)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608113",
+    "ST": "7608113",
+    "Description": "Cell - 3.75 SA-30 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B348)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608114",
+    "ST": "7608114",
+    "Description": "Cell - 2.0 DA-21 / 0.5505 mV/V @ 4,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B349)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608115",
+    "ST": "7608115",
+    "Description": "Cell - 1.875 DA-16 / 0.4 mV/V @ 3,753 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B350)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608116",
+    "ST": "7608116",
+    "Description": "Cell - 2.125 DA-21 / 0.4796 mV/V @ 4,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B351)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608117",
+    "ST": "7608117",
+    "Description": "Cell - 2.5 DB-30 / Hitch / 0.778 mV/V @ 12,500 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B352)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608118",
+    "ST": "7608118",
+    "Description": "Cell - 1.875 DB-21 / 0.2825 mV/V @ 2,310 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B353)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608119",
+    "ST": "7608119",
+    "Description": "Cell - 1.87 DA-16 / 0.4 mV/V @ 3,753 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B354)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608120",
+    "ST": "7608120",
+    "Description": "Cell - 2.0 DEDB-30 / 0.4335 mV/V @ 10000 LBS",
+    "ST Cable Length": "50'",
+    "Original Length": "50'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B355)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608121",
+    "ST": "7608121",
+    "Description": "Cell - 2.125DB-21 / 0.3734 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B356)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608122",
+    "ST": "7608122",
+    "Description": "Cell - 1.5 DBND-30 / 0.1599 mV/V @ 1,500 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B357)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608123",
+    "ST": "7608123",
+    "Description": "Double Ended Weigh-Bar 2.25 Dia 13.5 Length / 5 Pin Crown",
+    "ST Cable Length": "50'",
+    "Original Length": "50'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B358)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608124",
+    "ST": "7608124",
+    "Description": "Cell - 1.875 DB-16 / 0.514 mV/V @ 4,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B359)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608125",
+    "ST": "7608125",
+    "Description": "Cell - 2.875 DB-21 / 0.6503 mV/V @ 15,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B360)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608126",
+    "ST": "7608126",
+    "Description": "Cell - 5.5 SA-1/2 FT",
+    "ST Cable Length": "0.5'",
+    "Original Length": "0.5'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B361)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608127",
+    "ST": "7608127",
+    "Description": "Cell - 1.875 DA-11 / 0.4 mV/V @ 3,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B362)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608128",
+    "ST": "7608128",
+    "Description": "Cell - 2.125 DB-11 / 0.3 mV/V @ 6,000 LBS / Vertical Bolt Holes",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B363)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608129",
+    "ST": "7608129",
+    "Description": "Cell - 2.875 DESB-21 / 1.846 mV/V @ 22,046 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B364)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608860",
+    "ST": "7608860",
+    "Description": "Cell - 3.75 SB-21 / 1.5 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B365)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608861",
+    "ST": "7608861",
+    "Description": "Cell - 1.875 DB-16 / 0.266 mV/V @ 2,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B366)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608863",
+    "ST": "7608863",
+    "Description": "Cell - 2.5 DA-21 / 0.6224 mV/V @ 10,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B367)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608864",
+    "ST": "7608864",
+    "Description": "Cell - 2.5 DB-21 / 0.5420 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B368)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608866",
+    "ST": "7608866",
+    "Description": "Cell - 2.875 DA-30 / 0.8671 mV/V @ 20,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B369)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608868",
+    "ST": "7608868",
+    "Description": "Cell - 2.5 DB-16 / 0.625 mV/V @ 12,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B370)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608869",
+    "ST": "7608869",
+    "Description": "Cell - 2.5 DA-11 / 0.375 mV/V @ 7,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B371)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608870",
+    "ST": "7608870",
+    "Description": "Cell - 2.50 DA-11 / 0.375 mV/V @ 7,500 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B372)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608873",
+    "ST": "7608873",
+    "Description": "Cell - 3.75 SA-21 / 1.5 mV/V @ 30,000 LBS / Valmar",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B373)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608874",
+    "ST": "7608874",
+    "Description": "Cell - 2.875 DA-16 / 0.8671 mV/V @ 20,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B374)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608877",
+    "ST": "7608877",
+    "Description": "Cell - 10K CT-21 / 0.950 mV/V @ 10,000 LBS",
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B375)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608878",
+    "ST": "7608878",
+    "Description": "Cell - 2.12 DA-21 / .6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B376)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608879",
+    "ST": "7608879",
+    "Description": "Cell - 2.75 DA-21 / 0.8713 mV/V @ 14,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B377)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608880",
+    "ST": "7608880",
+    "Description": "Cell - 30K CT-TC-30 / 1.065 mV/V @ 15,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B378)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608881",
+    "ST": "7608881",
+    "Description": "Cell - 2.125 DA-21 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B379)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608882",
+    "ST": "7608882",
+    "Description": "Cell - 2.5 DB-21 / 0.7780 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B380)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608883",
+    "ST": "7608883",
+    "Description": "Cell - 3.75 SB-21 / 1.3007 mV/V @ 30,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B381)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608888",
+    "ST": "7608888",
+    "Description": "Cell - 2.125 DB-21 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B382)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608889",
+    "ST": "7608889",
+    "Description": "Cell - 2.125 DA-21 / 0.6928 mV/V @ 6,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B383)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7608890",
+    "ST": "7608890",
+    "Description": "Cell - 2.125 DA-21 / 0.3734 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B384)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609200",
+    "ST": "7609200",
+    "Description": "Cell - 2.125 DBND-30 / 0.6395 mV/V @ 6,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B385)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609368",
+    "ST": "7609368",
+    "Description": "Cell - 50K CT-TC-30 / 1.75 mV/V @ 35,000 LBS / Small Top",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B386)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609500",
+    "ST": "7609500",
+    "Description": "Cell - 2.5 DB-21 / 0.322 mV/V @ 12,500 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B387)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609503",
+    "ST": "7609503",
+    "Description": "Cell - 3.75 SB-30 / .75 mV/V @ 30,000 LBS / 2.5\" ND /Flying Lead",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B388)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609506",
+    "ST": "7609506",
+    "Description": "Cell - 2.875 DA-21 / 1.2447 mV/V @ 20,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B389)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609509",
+    "ST": "7609509",
+    "Description": "Cell - 2.125 DBND-24 / 1.344 mV/V @ 12,787 LBS",
+    "ST Cable Length": "24'",
+    "Original Length": "24'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B390)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609512",
+    "ST": "7609512",
+    "Description": "Cell - 1.875 DA-16 / 0.4 mV/V @ 4,613 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B391)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609515",
+    "ST": "7609515",
+    "Description": "Cell - 1.875 DA-16 / 0.5323 mV/V @ 3,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B392)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609518",
+    "ST": "7609518",
+    "Description": "Cell - 2.75 DA-30 / 0.85 mV/V @ 17,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B393)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609521",
+    "ST": "7609521",
+    "Description": "Hitch Weigh-Bar 1.87 Dia 14.06 Length / 5 Pin Crown",
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B394)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609524",
+    "ST": "7609524",
+    "Description": "Cell - 3.75 SB-30 / 1.3007 mV/V @ 30,000 LBS / 2.5\" ND",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B395)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609527",
+    "ST": "7609527",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B396)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609530",
+    "ST": "7609530",
+    "Description": "Cell - 2.875 DESB-11 / 1.018 mV/V @ 22,046 LBS",
+    "ST Cable Length": "11'",
+    "Original Length": "11'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B397)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609533",
+    "ST": "7609533",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B398)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609536",
+    "ST": "7609536",
+    "Description": "Cell - 1.875 DA-16 / 0.5323 mV/V @ 3,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B399)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609539",
+    "ST": "7609539",
+    "Description": "Cell - 2.50 DA-16 / 0.3252 mV/V @ 7,500 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B400)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609542",
+    "ST": "7609542",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B401)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609545",
+    "ST": "7609545",
+    "Description": "Cell - 2.125 DB-21 / 0.2602 mV/V @ 6,000 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B402)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609548",
+    "ST": "7609548",
+    "Description": "Cell - 1.875 DB-21 / 0.3513 mV/V @ 2,310 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B403)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609551",
+    "ST": "7609551",
+    "Description": "Cell - 1.875 DB-21 / 0.2462 mV/V @ 2,310 LBS",
+    "ST Cable Length": "21'",
+    "Original Length": "21'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B404)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609554",
+    "ST": "7609554",
+    "Description": "Cell - 2.875 DA-16 / 0.87 mV/V @ 20,000 LBS",
+    "ST Cable Length": "16'",
+    "Original Length": "16'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B405)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609557",
+    "ST": "7609557",
+    "Description": "Cell - 2.75 DA-30 / 1.058 mV/V @ 17,000 LBS",
+    "ST Cable Length": "30'",
+    "Original Length": "30'",
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B406)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609560",
+    "ST": "7609560",
+    "Description": "NEEDS DESCRIPTION",
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B407)>0",
+    "null": null
+  },
+  {
+    "Equivalents": "7609603",
+    "ST": "7609603",
+    "Description": null,
+    "ST Cable Length": null,
+    "Original Length": null,
+    "Currently Built": "=COUNTIF('Bars Built'!A:A, B408)>0",
+    "null": null
+  }
+]
